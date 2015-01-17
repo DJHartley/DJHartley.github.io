@@ -1,0 +1,8 @@
+Origin: DJHartleyRepo
+Label: DJHartley
+Suite: stable
+Version: 1.0
+Codename: DJHartleyRepo
+Architectures: iphoneos-arm
+Components: main
+Description: DJHartley’s repo. Repo is for advanced users & dev’s only. If you don’t understand something then you probably don’t need it. 

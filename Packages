@@ -1,0 +1,243 @@
+Package: com.myrepospace.DJHartley.91pandahome
+Version: 3.7.9.a2
+Architecture: iphoneos-arm
+Maintainer: com.91.sj.iphone.PandaHome
+Pre-Depends: firmware (>= 4.3)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.3), firmware (<< 8.2)
+Provides: 91wireless
+Filename: debs//91pandahome_3.7.9.a2_iphoneos-arm.deb
+Size: 41126936
+MD5sum: 6a432343951da1e1e9b971d4254a4dfd
+SHA1: c40e0f2c7432722ce8293164d933df9900ddefc3
+SHA256: dd4a8c1eac6c5e0ffe25ce7fa3c51f9717b4a828d2cb51893a4b4d411e4f2bd2
+Section: System
+Priority: optional
+Homepage: http://sj.91.com
+Description: Give your iPhone or iPod Touch a graphical overhau!
+Author: 91 Wireless
+Depiction: http://sj.91.com
+Icon: file:///Applications/PandaHome.app/AppIcon57x57.png
+Name: 91桌面-壁纸主题锁屏铃声
+
+Package: com.myrepospace.DJHartley.XXAssistant2
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: XXAssistant <@叉叉游戏助手>
+Installed-Size: 18032
+Depends: mobilesubstrate, firmware (>= 4.3)
+Filename: debs//xxzhushou_ios.deb
+Size: 9578738
+MD5sum: eb0882e667127ab59947998cd4041baa
+SHA1: d5b333a2b4205fe8f355badf93d6cf9d3c20cb9f
+SHA256: e045a5d0268c87b851604dce6628bb0cf456baa5979a6aade80caf90bdae0df8
+Section: Development
+Priority: Optional
+Homepage: http://www.xxzhushou.com
+Description: 叉叉游戏助手还没有写个人简介，详情关注微博@叉叉游戏助手
+Tag: role::enduser
+Author: XXAssistant <@叉叉游戏助手>
+Icon: file:///Library/Application Support/XXAssistant/Icon-iPhone.png
+Name: 叉叉助手
+Sponsor: 叉叉助手 <http://www.xxzhushou.com>
+
+Package: com.myrepospace.DJHartley.adremover4
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: MFord <admin@quickcache.org>
+Filename: debs//com.myrepospace.chir0student.adremover_1.3_iphoneos-arm[0][1][2].deb
+Size: 157406
+MD5sum: a6dab80459c0c8843b38ca482764e58c
+SHA1: 1b889a2cc302263e220a4506f8f4f5d9fa9e63a9
+SHA256: 3318338ecb38347803aa904fc07fef8265c42c5db5485f2d288d2b952925be61
+Section: Tweaks
+Homepage: http://www.quickcache.org
+Description: Removes ads from all apps and websites. Terminal Package.
+Author: Marshall <http://www.quickcache.org>
+Name: iOS-Ad-Remover
+
+Package: com.myrepospace.DJHartley.cyrespring1
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Chir0student <chir0student@me.com>
+Filename: debs//com.myrepospace.chir0student.cyrespring_1.0_iphoneos-arm[0].deb
+Size: 794
+MD5sum: 6f332cc005e604d0ad8b687fc8b98693
+SHA1: 07787aa980ecb8c4d53c2ec231d63932bbe8344a
+SHA256: 3fedd2994c634ea7a0178827638adb3b598f65963d8f6f972722fc6158d17fe1
+Section: Scripting
+Description: Force Cydia Respring.
+Author: Chir0student <chir0student@me.com>
+Name: CyRespring
+Sponsor: Chir0student <chir0student@me.com>
+
+Package: com.myrepospace.DJHartley.disabled1
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 202
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 4.0), preferenceloader (>= 2.2.2)
+Filename: debs//com.myrepospace.chir0student.disabled_1.0.3_iphoneos-arm[0][1].deb
+Size: 23838
+MD5sum: 63e6e57c1ecbd1f11d18f1dfc358fcf9
+SHA1: 055a7b7df87c8fa1e9751cc9f4227dcd9db4565e
+SHA256: e8d6c6101ea7f3cf0cfc5850283299ae5898a4a42d4df42f93906ec8565daa1a
+Section: Tweaks
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disabledDp
+Description: no lock-out period for wrong password
+Tag: purpose::extension
+Author: Javier (VedBoon) Brito <him_jbg@icloud.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=disabledDp
+Dev: javierbrito
+Icon: file:///Library/PreferenceBundles/disabledPreferences.bundle/disabledPreferences@2x.png
+Name: disabled
+
+Package: com.myrepospace.DJHartley.hdcinema
+Version: 1.0.5
+Architecture: iphoneos-arm
+Filename: debs//com.dta.hdcinema_1.0.5_iphoneos-arm.deb
+Size: 1745556
+MD5sum: ec0e73db8f475c17a6e19de300b191e4
+SHA1: 41a60d34e8a4bd448c15fa59daae393d3a33e47e
+SHA256: 9d1373ab1a94c3d0118e87c6dd2f2b59c166fae1eb801220bf7e1c55aff42f7a
+Section: dta-apps
+Homepage: http://dtathemes.com
+Description: Free movies and TV-shows
+Author: HD Cinema<>
+Depiction: http://cydia.dtathemes.com/depiction/hdcinema/theme.html
+Name: HD Cinema
+Sponsor: dtathemes <http://dtathemes.com>
+
+Package: com.myrepospace.DJHartley.hellospy1
+Version: 6.6
+Architecture: iphoneos-arm
+Maintainer: HelloSpy <support@hellospy.com>
+Depends: mobilesubstrate (>= 0.9-1)
+Filename: debs//com.hellospy.hellospy_6.6_iphoneos-arm[0].deb
+Size: 849774
+MD5sum: a7650063cebc4d5aff6571d424409fe6
+SHA1: e3d706611fc7d6177b17aa2ead14e91cbb9e94cb
+SHA256: 3cb6a0c58ec957c32407c6a1beb4e8853cc42290a72f680a52a2c2dcad5364ed
+Section: Utility
+Homepage: http://www.hellospy.com
+Description: Spy or backup target phone
+Author: HelloSpy <support@hellospy.com>
+Depiction: http://iphone.hellospy.com/depiction/index_hellospy.html
+Icon: /Applications/HelloSpy.app/icon.gif
+Name: HelloSpy
+Sponsor: HelloSpy <support@hellospy.com>
+
+Package: com.myrepospace.DJHartley.icaughtupro8
+Version: 8.1-1
+Architecture: iphoneos-arm
+Filename: debs//repo.biteyourapple.net.icaughtupro8_8.1-1_iphoneos-arm.deb
+Size: 2576126
+MD5sum: 7bfce2d230e14d244d0012d9d3a3d99e
+SHA1: f1936ec925e8ee5bde3e5d86d96f4dcb6f9a9d38
+SHA256: fea7994a0a403571c688eafa77de5ec5e998e204a9fa7baba273f62371343a82
+Section: BYA Apps
+Homepage: http://www.biteyourapple.net
+Description: location and photo sent for wrong passcode entered
+Author: BYA Repository
+Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=icaughtupro8
+Name: iCaughtU Pro (iOS 8)
+Sponsor: biteyourapple <http://www.biteyourapple.net>
+
+Package: com.myrepospace.DJHartley.iringtone4
+Version: 4.0.3
+Architecture: iphoneos-arm
+Maintainer: Chir0student <chir0student@me.com>
+Depends: bash, com.fizk.ffmpeg | com.myrepospace.chir0student.ffmpeg, com.myrepospace.chir0student.sudonopasswd, coreutils, coreutils-bin, file, firmware (>= 4.2.1), gawk, ncurses, sudo, system-cmds
+Conflicts: com.myrepospace.chir0student.avtoolscripts, com.myrepospace.chir0student.iringtone3
+Replaces: com.myrepospace.chir0student.avtoolscripts, com.myrepospace.chir0student.iringtone3
+Filename: debs//com.myrepospace.chir0student.iringtone4_4.0.3_iphoneos-arm.deb
+Size: 10610
+MD5sum: e2dfad8e0eee68a8a98966bcdd28147d
+SHA1: c9923ffff1501ffb3186bc6bc277fa9889387bb8
+SHA256: b9f9e10e8dfed1481c284edc62f2dc2b6aa7d2d26ac7554c60d389ceb3e5f322
+Section: Scripting
+Description: iRingtone is a command line utility that can create custom ringtones from any audio or video file. Just execute 'sudo iRingtone /path/to/[audio or video] file' in MobileTerminal and follow the interactive directions.
+Author: Chir0student <chir0student@me.com>
+Icon: file:///usr/share/chir0student/icons/iRingtone4.png
+Name: iRingtone 4
+
+Package: com.myrepospace.DJHartley.kkipad
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: 3K团队
+Installed-Size: 4131
+Filename: debs//com.jailbreak.kkipad_1.0.0_iphoneos-arm.deb
+Size: 4128768
+MD5sum: 1e226f3400bbbe1668c2665ab2332c4d
+SHA1: 8a2a2432427346024d875033a33a8429d2696fd7
+SHA256: f923adbb7c20f1920fa0b8687f1cd1f67254a20cd73d64fdf1fde97463e89e93
+Section: [3K - 手机助手]
+Priority: optional
+Homepage: http://www.3kzhushou.com/cydia/HD/
+Description: 最强的中文苹果设备助手，软件，游戏....强大的功能，最友好的界面设计！越狱用户的最好选择！2014横空出世！
+Author: 3K团队
+Depiction: http://www.3kzhushou.com/cydia/HD/
+Icon: file:///Applications/3KHD.app/3khd-180.png
+Name: 3K助手HD
+
+Package: com.myrepospace.DJHartley.mipsdgui1
+Version: 3.1-2
+Architecture: iphoneos-arm
+Maintainer: poetic_folly <poetic_folly@modmyi.com>
+Filename: debs//bg.peternikolow.mipsdgui_3.1-2_iphoneos-arm[0].deb
+Size: 387242
+MD5sum: 2531907434522e478010fd99582c8a14
+SHA1: 949784da3b9dc450cdfde0a773c7e58e7aab5638
+SHA256: 67b55eb15b59cae92dbeae31b03bdbba57ab5c9d07bb26de590e7647e405fd9d
+Section: Utilities
+Priority: extra
+Homepage: http://modmyi.com/info/mobilemonitor.php
+Description: Feature-rich monitoring and tracking app for smartphones
+Author: tunioz <tunioz@gmail.com>
+Depiction: http://modmyi.com/info/mobilemonitor.d.php
+Name: MobileMonitor
+Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
+
+Package: com.myrepospace.DJHartley.mirepo1
+Version: 5.14.1-2
+Architecture: iphoneos-arm
+Maintainer: Chir0student <chir0student@me.com>
+Depends: apt, apt7-key, apt7-ssl, apt7, apt7-lib, lighttpd | lighttpd-atv | com.myrepospace.chir0student.lighttpd-ios, com.myrepospace.chir0student.lighttpd-tool, com.innoying.sbutils, com.myrepospace.chir0student.libtimedate-perl | libtimedate-perl | com.myrepospace.chir0student.libtimedateperl, com.myrepospace.chir0student.libdpkg-perl | libdpkg-perl | com.myrepospace.chir0student.libdpkgperl, com.myrepospace.chir0student.dpkg-scanpackages, com.myrepospace.chir0student.perl | perl, com.myrepospace.chir0student.sudonopasswd, coreutils, coreutils-bin, file, gawk, gnupg, ncurses, sudo, system-cmds
+Conflicts: com.myrepospace.chir0student.makedeb
+Filename: debs//com.myrepospace.chir0student.mirepo_5.14.1-2_iphoneos-arm.deb
+Size: 301748
+MD5sum: 28ad5e2ca5ca300a4ae9ba1ce7b8d0a6
+SHA1: 6266107efbe29df53fdff35e83f0a15e5fdda011
+SHA256: 946a17a4bc2bc2775958310ee12704fe0d4c33238b23fa3b7a8acacfd4912b4e
+Section: Scripting
+Description: MiRepo is a functional Cydia repo on iDevice. Just type "MiRepo" in mobileterminal to bring up the menu. MiRepo directory is located at /var/mobile/Documents/repo
+Author: Chir0student <chir0student@me.com>
+Name: MiRepo
+
+Package: com.myrepospace.DJHartley.pandaspace
+Version: 3.6.2.1
+Architecture: iphoneos-arm
+Maintainer: your <your_email@gmail.com>
+Installed-Size: 10242212
+Filename: debs//netdragon.mobile.iphone.pandaspace_3.6.2.1_iphoneos-arm.deb
+Size: 12491072
+MD5sum: 7924775571e59a7dfd4702a61d6afac3
+SHA1: 58fc59a9983f51c3164a868d1bebc0f89c8a6af5
+SHA256: d13cd1c029edd9211d32c21ae4bfca6f525a37e2e1fa9de7b983a518e3b23475
+Section: utils
+Description: 91 pandaspace3.6.2.1
+Name: PandaSpace
+
+Package: com.myrepospace.DJHartley.revealinstaller1
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Chir0student <chir0student@me.com>
+Filename: debs//com.myrepospace.chir0student.revealinstaller_1.1_iphoneos-arm[0].deb
+Size: 7969248
+MD5sum: 4eb9201ce1f31610580b27e87bbef502
+SHA1: 9ad169de1ae80fbd41be44bcd3acc24eeb86531b
+SHA256: 856d20f640960995c7bac5b5a917ac47df3911c0b654616b8f1da189823afbc3
+Section: Development
+Description: Installs Framework & MobileSubstrate plugin for Reveal.app
+Author: Chir0student <chir0student@me.com>
+Name: Reveal Plugin Installer
+
