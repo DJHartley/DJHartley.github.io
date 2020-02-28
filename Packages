@@ -36,22 +36,6 @@ Depiction: http://apt.appvv.com/packages/detail/com.appvv.selfsolve
 Name: 苹果信息查询
 Sponsor: AppVV.com <http://apt.appvv.com>
 
-Package: com.bytafont.bytafont2
-Version: 2.4.2
-Architecture: iphoneos-arm
-Maintainer: BytaFont.com <info@bytafont.com>
-Depends: firmware (>= 7),applist
-Filename: debs//com.bytafont.bytafont2_2.4.2_iphoneos-arm.deb
-Size: 1869766
-MD5sum: 947cdbbe9cee712832a9a4ee845e26d2
-SHA1: 5b2fc7e296d8c44e90e88d7f4443d35e9c588141
-SHA256: c73e97439ea1d4a7c833f91a3ce5fd4e59b7a3648a09816d528c10897d1f28d4
-Section: System
-Description: BytaFont 2 lets you apply fonts to your iDevice in few taps.
-Author: BytaFont.com <info@bytafont.com>
-Depiction: http://repo.bytafont.com/bytafont/242
-Name: BytaFont 2
-Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
 Package: com.codehex.whiteterminal
 Version: 8.1-3
@@ -256,37 +240,6 @@ Author: Hoang Pham <cydia@ifanvn.com>
 Depiction: http://ifanvn.com/depiction/wtbicon/info.html
 Name: Patch Winterbroad Icon
 
-Package: com.imokhles.dupliwhatsapp
-Version: 0.1-9
-Architecture: iphoneos-arm
-Maintainer: iMokhles
-Installed-Size: 992
-Depends: mobilesubstrate
-Filename: debs//com.imokhles.dupliwhatsapp_0.1-9_iphoneos-arm.deb
-Size: 292310
-MD5sum: fb6320d7a8c9cc8188fbf037ad96ffa8
-SHA1: 1639fa2b689339b7eb4c53fbc52c0c5a08bc1042
-SHA256: acbea66aab5ffbeba4772595dee7376a57bb3f3c3ee2eb26b0e3fa8b29577fc6
-Section: Tweaks
-Description: duplicate WhatsApp application iOS8
-Author: iMokhles
-Name: DupliWhatsApp
-
-Package: com.imokhles.mefacetimeios8
-Version: 1.b-5
-Architecture: iphoneos-arm
-Maintainer: iMokhles/Amhs221
-Installed-Size: 2564
-Depends: mobilesubstrate, com.unlimapps.uaunbox
-Filename: debs//com.imokhles.mefacetimeios8_1.b-5_iphoneos-arm.deb
-Size: 979132
-MD5sum: eb8724eb87248fc260d72802e99e837d
-SHA1: 8092d6ed838e0b8a83e933b9df66e64d3e6fa70b
-SHA256: d0b7f4790f5befe580d22c5a1c1b158488b8bf8c9aca1e61e77f7c4692732db3
-Section: Tweaks
-Description: FaceTime for unsupported devices
-Author: iMokhles/Amhs221
-Name: MEFacetimeiOS8
 
 Package: com.iphonecake.cacheclearer
 Version: 0.1C
@@ -321,23 +274,6 @@ Author: Awosoft Technology <cycake@iphonecake.com>
 Name: iKeyMonitor keylogger for iPad/iPhone/iPod
 Sponsor: CyCake <cycake@iphonecake.com>
 
-Package: com.iphonecake.speedintensifier
-Version: 8.3-2C
-Architecture: iphoneos-arm
-Maintainer: CyCake <CyCake@iphonecake.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: debs//com.iphonecake.speedintensifier_8.3-2C_iphoneos-arm.deb
-Size: 23386
-MD5sum: cc5ebb637bff634361457be94f1f2552
-SHA1: 2024085ecf3fa54322bede70280cdc00b0010892
-SHA256: 773b877a38a87a22db865c48d834cadd2272058a9c97c241a5ed176a0392946b
-Section: CyTweaks
-Priority: extra
-Description: Speeds up iOS Animations. Repacked by R3tribut10n
-Author: pw5a29 <pw5a29@gmail.com>
-Name: Speed Intensifier
-Sponsor: Iphonecake<http://iphonecake.com>
-
 Package: com.iphonecake.stratos
 Version: 0.0.1-1
 Architecture: iphoneos-arm
@@ -371,43 +307,6 @@ Icon: /Applications/ispyoo.app/icon.gif
 Name: iSpyoo
 Sponsor: iSpyoo <support@ispyoo.com>
 
-Package: com.ispyoo.ispyoo.ios7
-Version: 7.2
-Architecture: iphoneos-arm
-Maintainer: iSpyoo <support@ispyoo.com>
-Depends: mobilesubstrate (>= 0.9-1)
-Filename: debs//com.ispyoo.ispyoo.ios7_7.2_iphoneos-arm.deb
-Size: 2197512
-MD5sum: db60b95da326de41b47a62d2c5398507
-SHA1: 89cf28e5d7fa9554be112a943c46118552f41b5a
-SHA256: 68ecd65ca4b180d273a1bc64dd91403170b25e38caae5f77b3f8ceca67c296d0
-Section: Utility
-Homepage: http://www.ispyoo.com
-Description: The #1 Spy App
-Author: iSpyoo <support@ispyoo.com>
-Depiction: http://iphone.ispyoo.com/depiction/index_ispyoo.html
-Icon: /Applications/ispyoo.app/icon.gif
-Name: iSpyoo (iOS 7.x)
-Sponsor: iSpyoo <support@ispyoo.com>
-
-Package: com.julioverne.cydown
-Version: 4.4.4
-Architecture: iphoneos-arm
-Maintainer: Julio
-Depends: mobilesubstrate, preferenceloader
-Filename: debs//com.julioverne.cydown_4.4.4_iphoneos-arm.deb
-Size: 184962
-MD5sum: 50d8a2b3673b50bc5b748970d254dc17
-SHA1: d768647b8353e29825890e095659431b41c431f3
-SHA256: 6bf5a1d86535d4f3b55c1a4d36113884492655e24030ca1b76b118ad9a1fd687
-Section: Tweaks
-Homepage: http://twitter.com/ijulioverne
-Description: Install paid packages for Free in Cydia!
-Author: julioverne
-Depiction: http://julio.xarold.com/files-deb/cydown.html
-Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
-Name: CyDown
-
 Package: com.julioverne.debrepack
 Version: 1.0-1
 Architecture: iphoneos-arm
@@ -423,28 +322,6 @@ Homepage: http://twitter.com/ijulioverne
 Description: bash command to repack deb file
 Author: julioverne
 Name: deb Repack
-
-Package: com.kinansaeb.youtubeessentials
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 86
-Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
-Filename: debs//com.kinansaeb.youtubeessentials_1.6_iphoneos-arm.deb
-Size: 16302
-MD5sum: 0462ed205069390668af001626db57b4
-SHA1: 7d974e3dae9c6a549cd8b49c64fb4c97980c9a69
-SHA256: 749023170b372c25d7be28990d3d68b654b86a8e859be57384b924f8cb552c74
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeessentialsDp
-Description: An awesome Youtube Patcher. Configure Options in Settings.
-Tag: purpose::extension, role::enduser, ios7support::1, ios8support::1
-Author: Kinan Saeb <kinansaeb@yahoo.de>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=youtubeessentialsDp
-Dev: kinansaeb
-Icon: file:///Library/PreferenceBundles/youtubeessentials.bundle/youtubeessentials@2x.png
-Name: Youtube Essentials
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.mobipast.mobispy
 Version: 2.2
@@ -544,21 +421,6 @@ Author: Chir0student <chir0student@me.com>
 Name: armv7 Binary Patch Script
 Sponsor: Chir0student <chir0student@me.com>
 
-Package: com.myrepospace.chir0student.cyrespring
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Chir0student <chir0student@me.com>
-Filename: debs//com.myrepospace.chir0student.cyrespring_1.0_iphoneos-arm.deb
-Size: 810
-MD5sum: 4063561f7a7d54f31d057d4726f3bfed
-SHA1: b00c081382111c183652f5bb50520691fae87a43
-SHA256: 1d723eca9603c8bad44256b23e2eb883afb7307c2a2a3bc1291ffb0520784065
-Section: Scripting
-Description: Force Cydia Respring.
-Author: Chir0student <chir0student@me.com>
-Name: CyRespring
-Sponsor: Chir0student <chir0student@me.com>
-
 Package: com.myrepospace.chir0student.disabled
 Version: 1.0.3
 Architecture: iphoneos-arm
@@ -580,21 +442,6 @@ Dev: javierbrito
 Icon: file:///Library/PreferenceBundles/disabledPreferences.bundle/disabledPreferences@2x.png
 Name: disabled
 
-Package: com.myrepospace.hackyourikurd.irecforiphone
-Version: 1.0
-Architecture: iphoneos-arm
-Filename: debs//com.myrepospace.hackyourikurd.irecforiphone_1.0_iphoneos-arm.deb
-Size: 86236
-MD5sum: c2f8576a63bc95b65516054d4b5de8f4
-SHA1: 6ecb83568374b387fa7a55389381dd13a49d2324
-SHA256: 9bef690cb4e9672225742390da93c5ac318d89c1a18a5e32ebea8e2e4e4be932
-Homepage: http://myrepospace.com
-Description: record your Iphone screen
-Author: Aland Kawa <clashofclansaland@yahoo.com>
-Depiction: http://myrepospace.com
-Name: iRec for iPhone
-Sponsor: myRepoSpace.com <http://www.myRepoSpace.com>
-
 Package: com.myrepospace.hackyourikurd.karwanbk
 Version: 1.0
 Architecture: iphoneos-arm
@@ -608,100 +455,6 @@ Section: System
 Description: Remove Restriction Passcode Easily! on iPhone & iPad
 Author: Karwan BK <Karwanbk@yahoo.com>
 Name: Restriction Passcode Remover
-
-Package: com.myrepospace.hackyourikurd.minecraftpe5renderdistance
-Version: 0.0.1-1
-Architecture: iphoneos-arm
-Maintainer: Aland Kawa
-Installed-Size: 16
-Depends: mobilesubstrate
-Filename: debs//com.myrepospace.hackyourikurd.minecraftpe5renderdistance_0.0.1-1_iphoneos-arm.deb
-Size: 1836
-MD5sum: 3d055aec59b8372e4dbc8dd089bf15fc
-SHA1: e4cea0a5afdd281f33b3c2e5fc4121b98d767890
-SHA256: 8f3d61f20c0f6b5fad802892fef70224ed4489fcb897ea0546bd83e3b3a14606
-Section: Tweaks
-Description: Get Minecraft PE 5 Render Distance Mod!
-Author: Aland Kawa
-Name: Minecraft PE 5 Render distance
-
-Package: com.myrepospace.hackyourikurd.minestore
-Version: 0.0.1-6
-Architecture: iphoneos-arm
-Maintainer: Aland Kawa
-Installed-Size: 56
-Filename: debs//com.myrepospace.hackyourikurd.minestore_0.0.1-6_iphoneos-arm.deb
-Size: 5960
-MD5sum: b944f853f8f4ae4b3d46b878890633bd
-SHA1: f7ef65b3b6f5f8e4a790f2a929cd3ee1d6736ddd
-SHA256: a3d1d76b659a590186c66f015567cf1285404a1662761f1ebb238340e6abd2da
-Section: Utilities
-Description: An awesome application!
-Author: Aland Kawa
-Name: MineStore
-
-Package: com.myrepospace.hackyourikurd.worldshaper
-Version: 1.0.5-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 2712
-Depends: firmware (>= 6.0)
-Filename: debs//com.myrepospace.hackyourikurd.worldshaper_1.0.5-1_iphoneos-arm.deb
-Size: 988860
-MD5sum: 2da2e19ce2f2bab22decc98c50733dbf
-SHA1: be334371d1f0e79c985dacb0ef472e07fd5b481d
-SHA256: 450a03753358d426a0cbcc417b7c8974030f7888aa2b3f62ac99594995b26bb0
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=worldshaperDp
-Description: editor for Minecraft Pocket Edition
-Tag: cydia::commercial, purpose::uikit, ios8support::1
-Author: ZCodeMT <zcodemtllc@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=worldshaperDp
-Dev: zcodemt
-Icon: file:///Applications/WorldShaper.app/AppIcon57x57.png
-Name: WorldShaper
-Sponsor: thebigboss.org <http://thebigboss.org>
-
-Package: com.ninjaprawn.easyspring2
-Version: 2.0-1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1519
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 8.0), libactivator
-Filename: debs//com.ninjaprawn.easyspring2_2.0-1_iphoneos-arm.deb
-Size: 522002
-MD5sum: 0e6960872b4d34a842e8de16be9788af
-SHA1: 665770e9cabb4a4f2dd400663b89d5bb6dbc90c4
-SHA256: 3e550113cfc8a77b07091dfbc87dfafb0a91f5d45b8873002d6127dc33b09659
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easyspring2Dp
-Description: respring or rebuild cache from Settings.
-Tag: purpose::extension, ios8support::1
-Author: TheNinjaprawn <ninjaprawn@ninjaprawn.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=easyspring2Dp
-Dev: theninjaprawn
-Name: EasySpring2 (iOS 8)
-
-Package: com.officialscheduler.safariuploader
-Version: 1.1-2
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 66
-Depends: firmware (>= 8.0), mobilesubstrate, libfinder
-Filename: debs//com.officialscheduler.safariuploader_1.1-2_iphoneos-arm.deb
-Size: 8702
-MD5sum: 54436f8edf5bbb74806359c8c7be0ec7
-SHA1: 4fa88631344257a2705d8fd0dd7fa9ee5d58d7d1
-SHA256: d6c8d68e7980968a2d254e18a31e79fe934109b75852a5647a02bad41994594b
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariuploadenabler8Dp
-Description: Upload files through Safari
-Tag: purpose::extension, ios8support::1
-Author: lordscotland <admin@officialscheduler.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=safariuploadenabler8Dp
-Dev: officialscheduler
-Name: Safari Uploader 8
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.philippe.theosgui
 Version: 0.5.2-1
@@ -736,20 +489,6 @@ Tag: role::developer
 Author: WillFour20
 Name: Theos NCWidget template
 
-Package: com.popcorn.time
-Version: 0.1-1
-Architecture: iphoneos-arm
-Depends: firmware (>= 7.0)
-Filename: debs//com.popcorn.time_0.1-1_iphoneos-arm.deb
-Size: 8224128
-MD5sum: b095e9f7b5aaeb6f4e097a9fad0ddbe5
-SHA1: ba91982662e20c418d047c6b0d3dc9df7013181e
-SHA256: a596d279f0e766cc845f4498d7933cfd3d16e5c614de264e6715fa645d25cdad
-Section: System
-Priority: optional
-Author: Your Name
-Name: Popcorn Time
-
 Package: com.repo.xarold.com.cydiaenable
 Version: 1.6
 Architecture: iphoneos-arm
@@ -766,27 +505,6 @@ Author: julioverne
 Depiction: http://repo.xarold.com/depiction.php?id=cydiaenable
 Icon: file:///Library/PreferenceBundles/CydiaEnable.bundle/Icon.png
 Name: Cydia Enable
-
-Package: com.rpetrich.iconrenamer
-Version: 1.2.1
-Architecture: iphoneos-arm
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 104
-Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
-Filename: debs//com.rpetrich.iconrenamer_1.2.1_iphoneos-arm.deb
-Size: 20770
-MD5sum: 2412b1343766a7be36078a957b035556
-SHA1: bfb823312fe50dfd5cd47d9908619b17bd803895
-SHA256: dfaebde1298e8c15794e486ef0db5e2290c1947fa130beb00b22f64d6f9c07c4
-Section: Tweaks
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerData
-Description: Rename icons from your SpringBoard
-Tag: purpose::extension
-Author: Ryan Petrich <rpetrich@gmail.com>
-Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=iconrenamerData
-Dev: rpetrich
-Name: Icon Renamer
-Sponsor: thebigboss.org <http://thebigboss.org>
 
 Package: com.sassoty.bundleids
 Version: 1.0-7
@@ -856,79 +574,6 @@ Depiction: http://modmyi.com/info/spyapp.d.php
 Name: Spy App
 Sponsor: ModMyi.com <http://modmyi.com/forums/index.php?styleid=31>
 
-Package: com.sull.anemone
-Version: 0.1~nightly-1
-Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
-Installed-Size: 1304
-Depends: mobilesubstrate
-Conflicts: com.anemonetheming.anemone
-Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles, com.anemonetheming.anemone
-Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, org.coolstar.customclock, com.codethemed.iconbundles
-Filename: debs//com.sull.anemone_0.1~nightly-1_iphoneos-arm.deb
-Size: 648558
-MD5sum: 48bfc4d57b24e501805d07ec78f13afa
-SHA1: 7f71a992fa567ccdfe666ce64f4b0f0a82052cbb
-SHA256: e1ba2bb9d03da28874036abf7c63813bfad55649faf097e7ab8aab8c47cae926
-Section: iBeta
-Description: An awesome theme manager!
-Author: AnemoneTeam
-Depiction: http://repo.insanelyi.com/depiction.php?package=anemone
-Name: Anemone
-Sponsor: insanelyi <http://insanelyi.com>
-
-Package: com.sull.bid
-Version: 2.1
-Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
-Depends: grep, gawk, sed, coreutils, bash, com.ericasadun.utilities
-Filename: debs//com.sull.bid_2.1_iphoneos-arm.deb
-Size: 2380
-MD5sum: b19464e8bfcf01a5e9d6874d2cb89b30
-SHA1: 9098c3d15b70729948eabe75baf4ccde7cb6ffa2
-SHA256: f47847da0e662a500b836de553f4cebb49b013f815bc5c01733d8b3173fe5886
-Section: iScripts
-Homepage: http://insanelyi.com
-Description: This is a Bundle ID Identifier, searches the installation database for all installed Bundle ID's. Can lists all or search for ID matching your search term. run 'bid' from command line.
-Author: brc0703
-Depiction: http://repo.insanelyi.com/depiction.php?package=bid
-Name: Bundle ID Identifier
-Sponsor: insanelyi <http://insanelyi.com>
-
-Package: com.sull.respring
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
-Conflicts: sbsettings
-Filename: debs//com.sull.respring_1.0_iphoneos-arm.deb
-Size: 2492
-MD5sum: 82248844a8002cf5e506e48139b1c4a3
-SHA1: 30a12a557649592399206477f729ede6049cc419
-SHA256: ac5755b89cb7a92c6c447e436792463fd5a6844712553acc50e427025ac79d24
-Section: iSystem
-Description: Command line utility.
-Author: Bigboss
-Depiction: http://repo.insanelyi.com/depiction.php?package=respring
-Name: Respring
-Sponsor: insanelyi <http://insanelyi.com>
-
-Package: com.sull.safemode
-Version: 1.3-2
-Architecture: iphoneos-arm
-Maintainer: insanelyi <noreply@insanelyi.com>
-Depends: coreutils, com.sull.respring | sbsettings
-Filename: debs//com.sull.safemode_1.3-2_iphoneos-arm.deb
-Size: 1066
-MD5sum: bf209799b67fd9ad7a7c8f9a5d07a084
-SHA1: d66887abbfb02810fb62b448c3c21f08b2ccbc5a
-SHA256: 494ae49236106f2cbca082d2711424dcd27cbca6b347d42e7395a446a5166144
-Section: iScripts
-Description: Easy safemode utillity. Run 'safemode' in terminal to respring your iDevice into safemode.
-Author: Sull
-Depiction: http://repo.insanelyi.com/depiction.php?package=safemode
-Name: SafeMode
-Sponsor: insanelyi <http://insanelyi.com>
-
 Package: com.xsellize.attack
 Version: 1.0
 Architecture: iphoneos-arm
@@ -977,35 +622,6 @@ Description: Changer le mot de passe SSH
 Author: iCountry
 Depiction: https://yourepo.com/repo/icountry/pack/ssh
 Name: SSH
-
-Package: com.yourepo.icountry.untetheredheysiri
-Version: 1.1
-Architecture: iphoneos-arm
-Filename: debs//com.yourepo.icountry.untetheredheysiri_1.1_iphoneos-arm.deb
-Size: 11984
-MD5sum: e0f0403cb0617a9133d8fd62f5e80978
-SHA1: a2a766daecf6361d4e01c679193a979ac66270ad
-SHA256: 834e8cb1db254af4cf54dc674677fb8e305e8049bd8feff0de0fb1ab357e1d74
-Section: Tweaks
-Description: Nécéssite iOS 8 -  Ajoute une option pour utiliser "Dis-Siri" Tout le temps ou seulement durant le chargement de votre appareil. Cette nouvelle section se trouvera dans les réglages de Siri. TRADUCTION FRANCAISE PROCHAINEMENT.
-Author: Hamza Sood
-Depiction: https://yourepo.com/repo/icountry/pack/untetheredheysiri
-Name: UntetheredHeySiri
-
-Package: com.yourepo.icountry.winterboardicon
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: Winterboard
-Filename: debs//com.yourepo.icountry.winterboardicon_1.0_iphoneos-arm.deb
-Size: 165290
-MD5sum: 8a63191e2ba57caa394f0b9a110b5e0d
-SHA1: 3e7363ad33760d0f79297021ebc511b64c3c6585
-SHA256: abe9154d87721fb4addc53439359c76bc5db91f0db5a7af83b0354534ff35cd5
-Section: Tweaks
-Description: Permet d'avoir l'icône de Winterboard en utilisant la dernière version.
-Author: iCountry
-Depiction: https://www.yourepo.com/repo/icountry/pack/winterboardicon
-Name: Icône WinterBoard
 
 Package: gdb
 Version: 1708
@@ -1059,23 +675,6 @@ Author: Marco Cristalli
 Depiction: http://www.appshape.net/depictions/appshape-translations/
 Name: AppShape Translations
 
-Package: joomla-atv
-Version: 2.5.8-1
-Architecture: iphoneos-arm
-Maintainer: J. Anrugas <j.anrugas@gmail.com>
-Installed-Size: 36956
-Pre-Depends: dpkg (>= 1.14.25-8)
-Filename: debs//joomla-atv_2.5.8-1_iphoneos-arm.deb
-Size: 3680042
-MD5sum: ae68f2bd373415548b89a144958bcbcf
-SHA1: 092a1d902a4ceb23a48387df764700079f1db352
-SHA256: 63e3c971c4fa293e4b4135fbcd9a7f064a5551d727d6477bf5d448300e77c165
-Section: Networking
-Priority: optional
-Description: Joomla! enables you to build Web sites and powerful online applications. After the installation please open Safari and load the side 'http://your_ios_device/joomla'.
-  Joomla! is an award-winning content management system (CMS), which
- enables you to build Web sites and powerful online applications.
-
 Package: jp.ashikase.libpackageinfo
 Version: 1.0.1-1
 Architecture: iphoneos-arm
@@ -1111,78 +710,6 @@ SHA256: 42042123df4cc83846ef30b08dcf3013162689e403700c594f9150fba38e7209
 Section: System
 Priority: required
 Description: core library used by everything
-
-Package: net.angelxwind.appsyncunified
-Version: 5.3-1
-Architecture: iphoneos-arm
-Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Installed-Size: 284
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
-Replaces: us.hackulo.appsync50
-Provides: appsync
-Filename: debs//net.angelxwind.appsyncunified_5.3-1_iphoneos-arm.deb
-Size: 34916
-MD5sum: c12428aac3872317ede5dd1035f1fee6
-SHA1: 8d50cb12c95c872396d4aa7a54072ec5c1d7d085
-SHA256: 59b214cf164ac8f500954897b9c82a34d21399f615a2737cc75254946ee4b0f9
-Section: Tweaks
-Homepage: http://cydia.angelxwind.net/
-Description: AppSync Unified allows you to sync and install unsigned iOS applications. Works on iOS 5, 6, 7, and 8.
-Author: Linus Yang, Karen Tsai <angelXwind@angelxwind.net>
-Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.appsyncunified
-Name: AppSync for iOS8
-
-Package: net.angelxwind.cydia-de-fan-ti-zhong-wen-ban
-Version: 1.1-75131b7841
-Architecture: iphoneos-arm
-Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Filename: debs//net.angelxwind.cydia-de-fan-ti-zhong-wen-ban_1.1-75131b7841_iphoneos-arm.deb
-Size: 6838
-MD5sum: 2d569a1b96ae7c1fc5eade20e579083c
-SHA1: a9af7121b7a4f62b2067f2c74352465ecb385af7
-SHA256: f882e6eadd1dc12e8bbe3e6f3c3b3bdb33dc7a408a6208b5b6aa9780dfd05ac3
-Section: Localization
-Homepage: http://cydia.angelxwind.net/
-Description: 這是Cydia的繁體中文版。
-Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.cydia-de-fan-ti-zhong-wen-ban
-Icon: file:///Library/aXw-Repo/net.angelxwind.cydia-de-fan-ti-zhong-wen-ban.png
-Name: Cydia的繁體中文版
-
-Package: net.angelxwind.cydia-de-jian-ti-zhong-wen-ban
-Version: 1.1-75131b7841
-Architecture: iphoneos-arm
-Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Filename: debs//net.angelxwind.cydia-de-jian-ti-zhong-wen-ban_1.1-75131b7841_iphoneos-arm.deb
-Size: 6844
-MD5sum: ffd4fcb59c165d61b431ff737f78936c
-SHA1: 78f8f2b3197068926fe12638eb8119e5fbdda646
-SHA256: 1fc70410fba135566eabc9fc33be7f81e5c8de308bcb8d7b6278bb924e1d4512
-Section: Localization
-Homepage: http://cydia.angelxwind.net/
-Description: 这是Cydia的简体中文版。
-Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.cydia-de-jian-ti-zhong-wen-ban
-Icon: file:///Library/aXw-Repo/net.angelxwind.cydia-de-jian-ti-zhong-wen-ban.png
-Name: Cydia的简体中文版
-
-Package: net.angelxwind.cydia-no-nihongo-ka
-Version: 1.4-1f1f0bfd67
-Architecture: iphoneos-arm
-Maintainer: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Filename: debs//net.angelxwind.cydia-no-nihongo-ka_1.4-1f1f0bfd67_iphoneos-arm.deb
-Size: 12954
-MD5sum: 352e4423927f9174dac2849953372d1a
-SHA1: 5e614a4fa7cc17de174cbf6614b1957b29c941c6
-SHA256: 7a20bef48e0656f5511950afb880a3e2fdccbd28fff1733f86eedc7126f0d035
-Section: Localization
-Homepage: http://cydia.angelxwind.net/
-Description: これはCydiaの日本語化です。
-Author: Karen Tsai (angelXwind) <angelXwind@angelxwind.net>
-Depiction: http://cydia.angelxwind.net/?page/net.angelxwind.cydia-no-nihongo-ka
-Icon: file:///Library/aXw-Repo/net.angelxwind.cydia-no-nihongo-ka.png
-Name: Cydiaの日本語化
 
 Package: net.qihoo.360safe
 Version: 4.5.5-1250363
@@ -1232,21 +759,6 @@ Description: Some additions to AppAddict app: iTunes Sync(autoenabled), Remove i
 Author: Zorro
 Name: AppAddict+
 
-Package: radare2
-Version: 0.9.8.git8
-Architecture: iphoneos-arm
-Maintainer: pancake <pancake@nopcode.org>
-Installed-Size: 54264
-Filename: debs//radare2_0.9.8.git8_iphoneos-arm.deb
-Size: 7215848
-MD5sum: d634e3b71f24bd1c81c5e2d608e54658
-SHA1: a906679e7399896868216e064ec8cdb05b5f2ef0
-SHA256: 80709728302046a6a9d2a82bfcbff6994c85997865677650c3f93fd428c35530
-Section: user/shell
-Priority: optional
-Description: unix like reverse engineering toolkit
- Opensource tools to disasm, debug, analyze, manipulate binary files and more...
-
 Package: repo.biteyourapple.net.wifibooster
 Version: 2.0.1
 Architecture: iphoneos-arm
@@ -1265,25 +777,6 @@ Author: BYA Repository
 Depiction: http://repo.biteyourapple.net/depiction/dep.php?name=wifibooster
 Name: WiFi Booster
 Sponsor: biteyourapple <http://www.biteyourapple.net>
-
-Package: theosinstaller
-Version: 1.1-3
-Architecture: iphoneos-arm
-Depends: wget, git, make, ldid, less, com.ericasadun.utilities, nano, adv-cmds, top, rsync, iphone-gcc, perl, libgcc, org.coolstar.cctools, org.coolstar.iostoolchain, org.coolstar.ld64, libactivator
-Filename: debs//theosinstaller_1.1-3_iphoneos-arm.deb
-Size: 1758
-MD5sum: 2a74c900a366908346827deff02bce60
-SHA1: 0663ddf0ffa5b2131e2706ddce86e516fae2243c
-SHA256: 4260132707b08aa24653d3c8aa95ee7447638d79f20c8662256c329b3c478151
-Section: Development
-Description: Automated Installer for Theos, the iPhone SDK
- This Package will install theos on your Device
- WARNING! At least 1-2GB free space should be available on /var/!
- NOTE: Uninstalling this package will NOT remove theos!
- If you want it to do that, create the file "removesdk" in /var/theos/
-Tag: purpose::console
-Depiction: http://jbxp.me/repo/depics/theosinstaller.htm
-Name: Theos Installer
 
 Package: ws.hbang.totesactivated
 Version: 1.0
